@@ -1,8 +1,11 @@
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://andres-portafolioweb.000webhostapp.com/">Andrés Gutiérrez Hurtado</a> 👋</h1>
+</div>
+<img src="./images/banner.jpg" alt="Banner">
+
 # 💫 Sobre mí:
-<p align="center">
-    ¡Hola! 👋 Soy Andrés Gutiérrez Hurtado, aprendiz del SENA en un tecnólogo en Análisis y Desarrollo de Software 👨‍💻. <br>
-    Estoy en constante aprendizaje y desarrollo de mis habilidades en programación con el objetivo de convertirme en un ingeniero de software de alto nivel 🔝. <br>
-    Aquí encontrarás una recopilación de mis proyectos y contribuciones en el mundo del desarrollo de software.
+<p style="max-width: 800px; margin: auto; text-align: center;">
+Técnico en Programación de software, actualmente soy aprendiz del SENA en un tecnólogo en Análisis y Desarrollo de Software 👨‍💻. Estoy en constante aprendizaje y desarrollo de mis habilidades en programación con el objetivo de convertirme en un ingeniero de software de alto nivel 🔝. Aquí encontrarás una recopilación de mis proyectos y contribuciones en el mundo del desarrollo de software.
 </p>
 
 
