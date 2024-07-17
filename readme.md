@@ -4,7 +4,7 @@
 <img src="./images/banner.jpg" alt="Banner">
 
 # 💫 Sobre mí:
-<p style="max-width: 800px; margin: auto; text-align: center;">
+<p align="center">
 Técnico en Programación de software, actualmente soy aprendiz del SENA en un tecnólogo en Análisis y Desarrollo de Software 👨‍💻. Estoy en constante aprendizaje y desarrollo de mis habilidades en programación con el objetivo de convertirme en un ingeniero de software de alto nivel 🔝. Aquí encontrarás una recopilación de mis proyectos y contribuciones en el mundo del desarrollo de software.
 </p>
 
