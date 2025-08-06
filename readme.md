@@ -1,12 +1,17 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://andres-portafolioweb.000webhostapp.com/">Andrés Gutiérrez Hurtado</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://andres-portfolio-b4dv.onrender.com/">Andrés Gutiérrez Hurtado</a> 👋</h1>
 </div>
-<img src="./images/banner.jpg" alt="Banner">
+
+<img src="./images/banner.png" alt="Banner">
 
 # 💫 Sobre mí:
 
 <p align="center">
-Técnico en Programación de software, actualmente soy aprendiz del SENA en un tecnólogo en Análisis y Desarrollo de Software 👨‍💻. Estoy en constante aprendizaje y desarrollo de mis habilidades en programación con el objetivo de convertirme en un ingeniero de software de alto nivel 🔝. Aquí encontrarás una recopilación de mis proyectos y contribuciones en el mundo del desarrollo de software.
+Soy técnico en programación y actualmente estudio para ser tecnólogo en Análisis y Desarrollo de Software en el SENA. Me gusta involucrarme a fondo en cada proyecto, siempre con una mentalidad de mejora constante ⚙️. Durante mi formación he trabajado con empresas y he participado en proyectos reales como monitor. Además, gané las WorldSkills a nivel Bogotá 🥇 y clasifiqué a la preselección nacional.
+</p>
+
+<p align="center">
+Para mí, no se trata solo de que algo funcione, sino de que esté bien hecho, bien pensado y sea claro para quien lo use o lo lea. Aquí comparto lo que he venido construyendo con esfuerzo, disciplina y muchas ganas de crecer 🚀. Cada proyecto es un paso más hacia mi meta de ser un desarrollador que marca la diferencia 🌟.
 </p>
 
 ## 🌐 Redes sociales:
