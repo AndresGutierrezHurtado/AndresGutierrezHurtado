@@ -16,7 +16,13 @@ Para mí, no se trata solo de que algo funcione, sino de que esté bien hecho, b
 
 ## 🌐 Redes sociales:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-guti%C3%A9rrez-hurtado-25946728b/)
+<div align="center">
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/andrés-gutiérrez-hurtado-25946728b/)
+[![Portafolio](https://img.shields.io/badge/Portafolio-222831?style=for-the-badge&logo=render&logoColor=white)](https://andres-portfolio-b4dv.onrender.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andres52885241@gmail.com)
+
+</div>
 
 # 💻 Tecnologías :
 
