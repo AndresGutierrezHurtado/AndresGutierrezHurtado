@@ -81,8 +81,6 @@ Para mí, no se trata solo de que algo funcione, sino de que esté bien hecho, b
 
 ## 🏆 Logros de GitHub
 
-![](https://github-profile-trophy.vercel.app/?username=AndresGutierrezHurtado&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
+![](https://github-profile-trophy.vercel.app/?username=AndresGutierrezHurtado&theme=nord&no-frame=false&no-bg=false&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B&column=5)
 
 [![](https://visitcount.itsvg.in/api?id=AndresGutierrezHurtado&icon=0&color=0)](https://visitcount.itsvg.in)
