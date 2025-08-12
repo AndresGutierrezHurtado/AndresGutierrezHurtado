@@ -84,9 +84,11 @@ Para mí, no se trata solo de que algo funcione, sino de que esté bien hecho, b
 
 # 📊 Estadísticas de GitHub:
 
-![](https://github-readme-stats.vercel.app/api?username=AndresGutierrezHurtado&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AndresGutierrezHurtado&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresGutierrezHurtado&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=AndresGutierrezHurtado&theme=dark&hide_border=false&include_all_commits=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=AndresGutierrezHurtado&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresGutierrezHurtado&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 Logros de GitHub
 
