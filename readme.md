@@ -1,5 +1,14 @@
 <div align="center">
+
 <h1 align="center">Hola, soy <a href="https://andres-portfolio-b4dv.onrender.com/">Andrés Gutiérrez Hurtado</a> 👋</h1>
+
+</div>
+
+<div align="center">
+
+[![wakatime](https://wakatime.com/badge/user/3a7f59f9-c2c2-4b8c-bf09-8b1d8a19d97b.svg?style=for-the-badge)](https://wakatime.com/@3a7f59f9-c2c2-4b8c-bf09-8b1d8a19d97b)
+![](https://komarev.com/ghpvc/?username=AndresGutierrezHurtado&color=blue&style=for-the-badge)
+
 </div>
 
 <img src="./images/banner.png" alt="Banner">
