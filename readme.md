@@ -6,8 +6,8 @@
 
 <div align="center">
 
-[![wakatime](https://wakatime.com/badge/user/3a7f59f9-c2c2-4b8c-bf09-8b1d8a19d97b.svg?style=for-the-badge)](https://wakatime.com/@3a7f59f9-c2c2-4b8c-bf09-8b1d8a19d97b)
-![](https://komarev.com/ghpvc/?username=AndresGutierrezHurtado&color=blue&style=for-the-badge)
+![Wakatime Andrés total time](https://wakatime.com/badge/user/3a7f59f9-c2c2-4b8c-bf09-8b1d8a19d97b.svg?style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=AndresGutierrezHurtado&color=blue&style=for-the-badge)
 
 </div>
 
