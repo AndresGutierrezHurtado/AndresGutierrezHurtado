@@ -16,11 +16,15 @@
 # 💫 Sobre mí:
 
 <p align="center">
-Soy técnico en programación y actualmente estudio para ser tecnólogo en Análisis y Desarrollo de Software en el SENA. Me gusta involucrarme a fondo en cada proyecto, siempre con una mentalidad de mejora constante ⚙️. Durante mi formación he trabajado con empresas y he participado en proyectos reales como monitor. Además, gané las WorldSkills a nivel Bogotá 🥇 y clasifiqué a la preselección nacional.
+
+Soy **Técnico en Programación de Software** y actualmente curso el **tecnólogo en Análisis y Desarrollo de Software en el SENA**. Me gusta involucrarme a fondo en cada proyecto, siempre con una mentalidad de mejora constante ⚙️. Durante mi formación he trabajado con empresas y participado en proyectos reales como monitor, fortaleciendo mis habilidades técnicas y mi compromiso profesional. Además, tuve el honor de convertirme en **representante de Colombia en WorldSkills**, un logro que refleja mi dedicación y pasión por la excelencia en el desarrollo de software.
+
 </p>
 
 <p align="center">
+
 Para mí, no se trata solo de que algo funcione, sino de que esté bien hecho, bien pensado y sea claro para quien lo use o lo lea. Aquí comparto lo que he venido construyendo con esfuerzo, disciplina y muchas ganas de crecer 🚀. Cada proyecto es un paso más hacia mi meta de ser un desarrollador que marca la diferencia 🌟.
+
 </p>
 
 ## 🌐 Redes sociales:
