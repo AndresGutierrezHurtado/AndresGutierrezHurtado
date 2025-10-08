@@ -27,7 +27,7 @@ Para mí, no se trata solo de que algo funcione, sino de que esté bien hecho, b
 
 </p>
 
-## 🌐 Redes sociales:
+# 🌐 Redes sociales:
 
 <div align="center">
 
@@ -94,7 +94,7 @@ Para mí, no se trata solo de que algo funcione, sino de que esté bien hecho, b
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresGutierrezHurtado&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 Logros de GitHub
+# 🏆 Logros de GitHub
 
 ![](https://github-profile-trophy.vercel.app/?username=AndresGutierrezHurtado&theme=nord&no-frame=false&no-bg=false&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B&column=5)
 
