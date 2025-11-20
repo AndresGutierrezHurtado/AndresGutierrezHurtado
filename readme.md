@@ -19,7 +19,11 @@
 
 <p align="center">
 
-Soy **Técnico en Programación de Software** y actualmente curso el **tecnólogo en Análisis y Desarrollo de Software en el SENA**. Me gusta involucrarme a fondo en cada proyecto, siempre con una mentalidad de mejora constante ⚙️. Durante mi formación he trabajado con empresas y participado en proyectos reales como monitor, fortaleciendo mis habilidades técnicas y mi compromiso profesional. Además, tuve el honor de ser el **representante de Colombia en WorldSkills**, donde obtuve medalla de oro a nivel americas, un logro que refleja mi dedicación y pasión por la excelencia en el desarrollo de software.
+Soy **Desarrollador Full-Stack** y **Tecnólogo en Análisis y Desarrollo de Software**, enfocado en crear soluciones escalables aplicando buenas prácticas de ingeniería. Tengo experiencia construyendo sistemas robustos, APIs eficientes y aplicaciones web modernas. Me involucro a fondo en cada proyecto, siempre con una mentalidad de mejora continua ⚙️.
+
+He participado en iniciativas que abarcan desde la modernización de plataformas hasta el desarrollo de soluciones desde cero, integrando servicios externos, optimizando procesos internos y manteniendo un enfoque constante en la claridad del código, la organización y la mantenibilidad. También he trabajado en accesibilidad web, SEO y en la creación de herramientas adoptadas por usuarios e instituciones reales.
+
+Actualmente represento a Colombia en **WorldSkills 2025/2026** en Desarrollo Web, donde obtuve medalla de oro continental. Esta experiencia ha fortalecido mi capacidad para resolver problemas con precisión, trabajar bajo presión y desarrollar bajo estándares internacionales.
 
 </p>
 
