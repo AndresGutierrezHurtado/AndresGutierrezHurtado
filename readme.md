@@ -10,8 +10,8 @@
 ![Profile views](https://komarev.com/ghpvc/?username=AndresGutierrezHurtado&color=blue&style=for-the-badge)
 [![MonkeyType Personal Best](https://img.shields.io/badge/MonkeyType-15s_/_134_WPM-yellow?style=for-the-badge&logo=monkeytype)](https://monkeytype.com/profile/AndresGHDev)
 
-[![WorldSkills](https://img.shields.io/badge/worldskills%20COLOMBIA-representative_web_Technologies-0066B3?style=for-the-badge)](https://github.com/AndresGutierrezHurtado/worldskills-nacional-2025)
-[![WorldSkills Gold](https://img.shields.io/badge/WorldSkills-Gold_Medal_Americas_2025-0066B3?style=for-the-badge)](https://github.com/AndresGutierrezHurtado/worldskills-americas-2025)
+[![WorldSkills](https://acortar.link/80vZQn)](https://github.com/AndresGutierrezHurtado/worldskills-nacional-2025)
+[![WorldSkills Gold](https://acortar.link/6vJoAx)](https://github.com/AndresGutierrezHurtado/worldskills-americas-2025)
 
 </div>
 
