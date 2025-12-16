@@ -8,7 +8,7 @@
 
 ![Wakatime Andrés total time](https://wakatime.com/badge/user/3a7f59f9-c2c2-4b8c-bf09-8b1d8a19d97b.svg?style=for-the-badge)
 ![Profile views](https://komarev.com/ghpvc/?username=AndresGutierrezHurtado&color=blue&style=for-the-badge)
-[![MonkeyType Personal Best](https://img.shields.io/badge/MonkeyType-15s_/_127_WPM-yellow?style=for-the-badge&logo=monkeytype)](https://monkeytype.com/profile/AndresGHDev)
+[![MonkeyType Personal Best](https://img.shields.io/badge/MonkeyType-15s_/_134_WPM-yellow?style=for-the-badge&logo=monkeytype)](https://monkeytype.com/profile/AndresGHDev)
 
 
 </div>
