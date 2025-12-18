@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center">Hola, soy <a href="https://andres-portfolio-b4dv.onrender.com/">Andrés Gutiérrez Hurtado</a> 👋</h1>
+<h1 align="center">Hi, I'm <a href="https://andres-portfolio-b4dv.onrender.com/">Andrés Gutiérrez Hurtado</a> 👋</h1>
 
 </div>
 
@@ -21,17 +21,17 @@
 
 <p align="center">
 
-Soy **Desarrollador Full-Stack** y **Tecnólogo en Análisis y Desarrollo de Software**, enfocado en crear soluciones escalables aplicando buenas prácticas de ingeniería. Tengo experiencia construyendo sistemas robustos, APIs eficientes y aplicaciones web modernas. Me involucro a fondo en cada proyecto, siempre con una mentalidad de mejora continua ⚙️.
+I'm a **Backend Software Engineer** and **Software Development Technologist**, focused on designing and building **scalable, maintainable, and well-architected systems**. My core expertise is backend development with **Java (Spring Boot)**, applying solid principles of software architecture, clean code, performance optimization, and security.
 
-He participado en iniciativas que abarcan desde la modernización de plataformas hasta el desarrollo de soluciones desde cero, integrando servicios externos, optimizando procesos internos y manteniendo un enfoque constante en la claridad del código, la organización y la mantenibilidad. También he trabajado en accesibilidad web, SEO y en la creación de herramientas adoptadas por usuarios e instituciones reales.
+I have worked on both projects and the **modernization of existing platforms**, taking systems from unclear or fragile states to well-structured and maintainable solutions. My experience includes API design, database modeling, system refactoring, external service integrations, and improving internal processes through better architectural decisions and automation.
 
-Actualmente represento a Colombia en **WorldSkills 2025/2026** en Desarrollo Web, donde obtuve medalla de oro continental. Esta experiencia ha fortalecido mi capacidad para resolver problemas con precisión, trabajar bajo presión y desarrollar bajo estándares internacionales.
+I currently represent **Colombia in WorldSkills (2025–2026)** in Web Technologies, where I achieved a **Gold Medal at the Continental level (WorldSkills Americas)**. This experience strengthened my ability to work under pressure, follow international standards, and deliver high-quality solutions with precision and discipline.
 
 </p>
 
 <p align="center">
 
-Para mí, no se trata solo de que algo funcione, sino de que esté bien hecho, bien pensado y sea claro para quien lo use o lo lea. Aquí comparto lo que he venido construyendo con esfuerzo, disciplina y muchas ganas de crecer 🚀. Cada proyecto es un paso más hacia mi meta de ser un desarrollador que marca la diferencia 🌟.
+For me, software engineering is not just about making things work, but about building systems that are **well thought out, reliable, and easy to understand** for both users and developers. This repository reflects my commitment to continuous improvement, technical excellence, and long-term professional growth 🚀.
 
 </p>
 
