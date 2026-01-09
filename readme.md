@@ -96,12 +96,10 @@ For me, software engineering is not just about making things work, but about bui
 
 # 📊 Estadísticas de GitHub:
 
-![](https://github-readme-stats.vercel.app/api?username=AndresGutierrezHurtado&theme=dark&hide_border=false&include_all_commits=true)
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=AndresGutierrezHurtado)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=AndresGutierrezHurtado&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresGutierrezHurtado&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AndresGutierrezHurtado&theme=nord&hide_border=true&short_numbers=true)
 
 # 🏆 Logros de GitHub
 
-![](https://github-profile-trophy.vercel.app/?username=AndresGutierrezHurtado&theme=nord&no-frame=false&no-bg=false&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B&column=5)
+![Github Trophies](https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=AndresGutierrezHurtado&theme=nord&no-frame=false&no-bg=false&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B&column=5)
