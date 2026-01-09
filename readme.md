@@ -96,7 +96,7 @@ For me, software engineering is not just about making things work, but about bui
 
 # 📊 Estadísticas de GitHub:
 
-![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=AndresGutierrezHurtado)
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=AndresGutierrezHurtado&theme=nordfox)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AndresGutierrezHurtado&theme=nord&hide_border=true&short_numbers=true)
 
